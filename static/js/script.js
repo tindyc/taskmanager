@@ -3,4 +3,5 @@ $(document).ready(function () {
         edge: "right"
     });
     $('.collapsible').collapsible();
+    $('.tooltipped').tooltip();
 });
